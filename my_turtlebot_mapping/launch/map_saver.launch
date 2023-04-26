@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="map_server" type="map_saver" name="map_saver" args="-f /home/user/catkin_ws/src/maps/env_map"/>
+</launch>
